@@ -11,3 +11,4 @@ The paper developed a new QA system that mines answers directly from the Web, an
 #### Notes / Questions
 
 - Seem that the system is limited to answer simple question (e.g. one-word-answer question) ?
+
