@@ -1,4 +1,4 @@
-## [Incomplete Follow-up Question Resolution using Retrieval based Sequence to Sequence Learning](http://dl.acm.org/citation.cfm?id=3080801)
+## [Incomplete Follow-up Question Resolution using Retrieval based Sequence to Sequence Learning](http://dl.acm.org/citation.cfm?id=3080801)
 
 The paper presented a *retrieval* based seq2seq learning system that can generate the complete (or intended) question for an incomplete follow-up question. As there is paucity of labeled conversation data, the authors decompose the original problem into two simpler and independent problems.
 
